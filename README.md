@@ -12,7 +12,9 @@ Merge Sort uses Divide and Conquer: T(n) = nlogn
 Quick Sort uses Divide and Conquer: T(n) = nlogn
 
 Linear time sorts - 
+
 Counting Sort: T(n) = n
+
 Radix Sort:
 Bucket Sort: 
 
