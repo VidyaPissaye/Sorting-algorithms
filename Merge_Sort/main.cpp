@@ -35,7 +35,7 @@ void merge(vector<int> & array, int p, int m, int q) {
     int i=0;
     int j=0;
     
-    for(int x=p; x <= q; x++) {
+    for(int x = p; x <= q; x++) {
         
         if(i<n1 && j<n2){
             if(a[i] <= b[j]){
