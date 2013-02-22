@@ -4,6 +4,7 @@ Sorting-algorithms
 Sort them all!
 
 Comparison sorts - 
+
 Insertion Sort: T(n) = n2
 
 Merge Sort uses Divide and Conquer: T(n) = nlogn
